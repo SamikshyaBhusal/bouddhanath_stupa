@@ -4,10 +4,10 @@
 
 This is a Computer Graphics project done in the fifth semester of computer Engineering by:
 
-- Sadhana Panthi (075BCT069)
-- Samikshya Bhusal (075BCT074)
+- Sadhana Panthi (078BCT069)
+- Samikshya Bhusal (078BCT074)
 - Shalu Khebang (078BCT082)
-- Shreya Shrestha (075BCT085)
+- Shreya Shrestha (078BCT085)
 
 
 
