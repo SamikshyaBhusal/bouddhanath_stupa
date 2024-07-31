@@ -1,12 +1,14 @@
-# 3D Modeling and Rendering of Dharahara and Ghantaghar using OpenGl
+# 3D Modeling and Rendering of Boudhanath using OpenGl
 
 ## Introduction
 
 This is a Computer Graphics project done in the fifth semester of computer Engineering by:
 
-- Sandeep Acharya (075BCT074)
-- Sangam Chaulagain (075BCT078)
-- Saujan Tiwari  (075BCT083)
+- Sadhana Panthi (075BCT069)
+- Samikshya Bhusal (075BCT074)
+- Shalu Khebang (078BCT082)
+- Shreya Shrestha (075BCT085)
+
 
 
 ## Libraries Used
@@ -27,9 +29,9 @@ This is a Computer Graphics project done in the fifth semester of computer Engin
 
 ## How to run
 
-This project is build using visual studio 2019.
+This project is build using visual studio 2022.
 
-1. Open Visual Studio 2019.
+1. Open Visual Studio 2022.
 2. Click on run to run the project.
 
 Use A, S, W, D to move around.\
@@ -40,6 +42,6 @@ You can use cmake to buid the libraries.
 
 ### Helpful links
 
-Visual Studio 2019: https://visualstudio.microsoft.com/downloads/ \
+Visual Studio 2022: https://visualstudio.microsoft.com/downloads/ \
 Setting up Libraries: https://learnopengl.com/Getting-started/Creating-a-window \
 Learn Opengl: https://learnopengl.com/

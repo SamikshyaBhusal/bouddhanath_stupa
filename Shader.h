@@ -33,6 +33,7 @@ public:
     // ------------------------------------------------------------------------
     void setMat4(const std::string& name, Transf::mat4& mat) const;
 
+
 private:
     // utility function for checking shader compilation/linking errors.
     // ------------------------------------------------------------------------

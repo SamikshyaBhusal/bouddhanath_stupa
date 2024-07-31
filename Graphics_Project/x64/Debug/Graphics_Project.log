@@ -1,0 +1,14 @@
+﻿  maincpp.cpp
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\vec.h(74,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\vec.h(132,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(18,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(19,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(23,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(24,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(26,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(27,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(35,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(227,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(247,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\maincpp.cpp(257,39): warning C4305: 'argument': truncation from 'double' to 'const float'
+  Graphics_Project.vcxproj -> C:\Users\lenevo\OneDrive\Desktop\Finalboudha1\x64\Debug\Graphics_Project.exe

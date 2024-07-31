@@ -1,4 +1,6 @@
+
 #include "maincpp.h"
+
 
 // glfw: whenever the window size changed (by OS or user resize) this callback function executes
 void framebuffer_size_callback(GLFWwindow* window, int width, int height)
@@ -46,7 +48,7 @@ void processInput(GLFWwindow* window)
     if (glfwGetKey(window, GLFW_KEY_A) == GLFW_PRESS)
         camera.ProcessKeyboard(LEFT, deltaTime);
     if (glfwGetKey(window, GLFW_KEY_D) == GLFW_PRESS)
-        camera.ProcessKeyboard(RIGHT, deltaTime); 
+        camera.ProcessKeyboard(RIGHT, deltaTime);
     if (glfwGetKey(window, GLFW_KEY_Z) == GLFW_PRESS)
         isDark = false;
     if (glfwGetKey(window, GLFW_KEY_X) == GLFW_PRESS)
@@ -148,7 +150,7 @@ int main()
     unsigned int cubemapTexture = loadCubemap(faces);
     skyboxShader.use();
     skyboxShader.setInt("skybox", 0);
-
+    skyboxShader.setVec3("domeColor", 1.0f, 1.0f, 1.0f); // Set dome color before entering render loop
     //ground plane
     unsigned int groundPlaneVBO, groundPlaneVAO, groundPlaneEBO;
     glGenVertexArrays(1, &groundPlaneVAO);
@@ -189,7 +191,7 @@ int main()
         std::cout << "Failed to load texture" << std::endl;
     }
     stbi_image_free(data);
-   //groundMatrix
+    //groundMatrix
     Transf::mat4 groundModelMatrix = Transf::translate(Transf::mat4(1.f), Transf::vec3(10.f, -1.5f, 0.f));
     groundModelMatrix = Transf::scale(groundModelMatrix, Transf::vec3(500.f));
     groundShader.use();
@@ -208,16 +210,16 @@ int main()
 
     // load models
     //Model DharaharaModel("objects/dharahara/dharaharaSeriousNewScenes.obj");
-     Model DharaharaModel("objects/dharahara/finaltoran.obj");
+    Model DharaharaModel("objects/dharahara/finaltoran1.obj");
     Model LightBulb("objects/dharahara/bulbs.obj");
     // draw in wireframe
     //glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
-    
+
     // shader configuration
     lightingShader.use();
     lightingShader.setInt("material.diffuse", 0);
     lightingShader.setInt("material.specular", 1);
-  
+
     // render loop
     while (!glfwWindowShouldClose(window))
     {
@@ -304,7 +306,7 @@ int main()
         glBindVertexArray(0);
         glDepthFunc(GL_LESS); // set depth function back to default
 
-       // glfw: swap buffers and poll IO events (keys pressed/released, mouse moved etc.)
+        // glfw: swap buffers and poll IO events (keys pressed/released, mouse moved etc.)
         glfwSwapBuffers(window);
         glfwPollEvents();
     }

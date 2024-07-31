@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\maincpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|solutionrelative:maincpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|solutionrelative:Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|solutionrelative:Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\skyboxFS.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|solutionrelative:skyboxFS.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\skyboxVS.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|solutionrelative:skyboxVS.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|solutionrelative:stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\maincpp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|solutionrelative:maincpp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|solutionrelative:Model.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{044AE202-0352-4A1C-A6ED-085252D5C933}|Graphics_Project.vcxproj|solutionrelative:Model.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "maincpp.cpp",
+              "DocumentMoniker": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\maincpp.cpp",
+              "RelativeDocumentMoniker": "maincpp.cpp",
+              "ToolTip": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\maincpp.cpp",
+              "RelativeToolTip": "maincpp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T16:39:12.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "skyboxFS.txt",
+              "DocumentMoniker": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\skyboxFS.txt",
+              "RelativeDocumentMoniker": "skyboxFS.txt",
+              "ToolTip": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\skyboxFS.txt",
+              "RelativeToolTip": "skyboxFS.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-14T17:04:35.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shader.h",
+              "DocumentMoniker": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Shader.h",
+              "RelativeDocumentMoniker": "Shader.h",
+              "ToolTip": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Shader.h",
+              "RelativeToolTip": "Shader.h",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T16:59:35.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Shader.cpp",
+              "RelativeDocumentMoniker": "Shader.cpp",
+              "ToolTip": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Shader.cpp",
+              "RelativeToolTip": "Shader.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T16:39:17.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "skyboxVS.txt",
+              "DocumentMoniker": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\skyboxVS.txt",
+              "RelativeDocumentMoniker": "skyboxVS.txt",
+              "ToolTip": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\skyboxVS.txt",
+              "RelativeToolTip": "skyboxVS.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-14T17:04:29.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "maincpp.h",
+              "DocumentMoniker": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\maincpp.h",
+              "RelativeDocumentMoniker": "maincpp.h",
+              "ToolTip": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\maincpp.h",
+              "RelativeToolTip": "maincpp.h",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAcwKAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T17:00:15.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Model.h",
+              "DocumentMoniker": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Model.h",
+              "RelativeDocumentMoniker": "Model.h",
+              "ToolTip": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Model.h",
+              "RelativeToolTip": "Model.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T16:59:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model.cpp",
+              "DocumentMoniker": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Model.cpp",
+              "RelativeDocumentMoniker": "Model.cpp",
+              "ToolTip": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\Model.cpp",
+              "RelativeToolTip": "Model.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-14T16:37:47.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\stb_image.h",
+              "RelativeDocumentMoniker": "stb_image.h",
+              "ToolTip": "C:\\Users\\lenevo\\OneDrive\\Desktop\\Finalboudha1\\stb_image.h",
+              "RelativeToolTip": "stb_image.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-14T16:29:53.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
